@@ -1,0 +1,3 @@
+Hola, soy un simple archivo txt para probar la funcionalidad de git y github. 
+
+Gracias por leerme. 
